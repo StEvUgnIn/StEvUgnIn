@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✅ ~~I’m currently looking for a part-time job position starting September 2022 and I am willing to intern at your company during Summer 2022.~~
+✅ I have recently joined Swiss startup [FlecheTech LLC](/FlecheTech) as the Technical Lead for Software and IT.
 
 ✅ My main intests lie in data analysis and low level programming.
 
