@@ -8,4 +8,8 @@
 
 ✅ Main languages: C/C++, Python, TypeScript & ECMAscript, Solidty, .NET, Java, Rust
 
+✅ Agile and DevOps methodologies preferably using CI/CD
+
+✅ I put emphasis on Model-View-Controller and modular approach for crossplatform.
+
  **Let's connect on my [LinkedIn](https://www.linkedin.com/in/steve-huguenin/).**
