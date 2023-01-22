@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-✅ I have recently joined Swiss startup [FlecheTech LLC](https://github.com/FlecheTech) as the Technical Lead for Software and IT.
+✅ I have recently stepped down from my position of Technical Lead at [FlecheTech LLC](https://github.com/FlecheTech).
+
+✅ I am available for short missions, part-time and full-time positions.
 
 ✅ My main intests lie in blockchain, data analysis, and hardware development.
 
