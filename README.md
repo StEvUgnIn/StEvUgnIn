@@ -14,4 +14,4 @@
 
 ✅ I put emphasis on Model-View-Controller and modular approach for crossplatform.
 
- **Let's connect on my [LinkedIn](https://www.linkedin.com/in/steve-huguenin/).**
+ **Let's connect on my [LinkedIn](https://www.linkedin.com/in/steve-huguenin/):** <span class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="steve-huguenin" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ch.linkedin.com/in/steve-huguenin?trk=profile-badge">Steve Huguenin 🌿✨</a></span>
