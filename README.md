@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+✅ I am giving an event on GraphQL on Friday, 17 March 2022 on [LinkedIn](https://www.linkedin.com/video/event/urn:li:ugcPost:7037399372132679680/)
+
 ✅ I have recently stepped down from my position of Technical Lead at [FlecheTech LLC](https://github.com/FlecheTech).
 
 ✅ I am available for short missions, part-time and full-time positions.
