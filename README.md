@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ✅ I am giving an event on GraphQL on Friday, 17 March 2022 on [LinkedIn](https://www.linkedin.com/video/event/urn:li:ugcPost:7037399372132679680/)
 
@@ -16,4 +16,6 @@
 
 ✅ Agile and DevOps methodologies preferably using CI/CD.
 
- **Let's connect on my [LinkedIn](https://www.linkedin.com/in/steve-huguenin/):** <span class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="steve-huguenin" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ch.linkedin.com/in/steve-huguenin?trk=profile-badge">Steve Huguenin 🌿✨</a></span>
+## Let's connect on [LinkedIn](https://www.linkedin.com/in/steve-huguenin/)
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="steve-huguenin" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ch.linkedin.com/in/steve-huguenin?trk=profile-badge">Steve Huguenin</a></div>
