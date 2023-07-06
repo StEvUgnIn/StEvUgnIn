@@ -1,18 +1,16 @@
 # Hi there 👋
 
-✅ I am giving an event on GraphQL on Friday, 17 March 2022 on [LinkedIn](https://www.linkedin.com/video/event/urn:li:ugcPost:7037399372132679680/)
+✅ I am startup founder.
 
-✅ I have recently stepped down from my position of Technical Lead at [FlecheTech LLC](https://github.com/FlecheTech).
-
-✅ I am available for short missions, part-time and full-time positions.
+✅ I am available for short missions, part time positions and season internships.
 
 ✅ I would like to offer my services to companies for data infrastructure including database management and migration (SQL, NoSQL, GraphQL, REST API, etc.).
 
 ✅ My main intests lie in AI, machine learning, blockchain, data science, and hardware development.
 
-✅ I am a GNU/Linux aficionado and I have experience using Docker container and Kubernetes for orchestration.
+✅ I am a GNU/Linux aficionado and I have experience in cloud technology (Docker, Kubernetes).
 
-✅ Main languages: Go, Rust, C/C++, Python, TypeScript & ECMAscript, and Solidty
+✅ Main languages: Go, Rust, C, C++ STL, Python, TypeScript & ECMAscript, and Solidity.
 
 ✅ Agile and DevOps methodologies preferably using CI/CD.
 
