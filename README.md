@@ -1,6 +1,6 @@
 # Hi there 👋
 
-✅ I am startup founder.
+✅ I am a startup founder.
 
 ✅ I am available for short missions, part time positions and season internships.
 
