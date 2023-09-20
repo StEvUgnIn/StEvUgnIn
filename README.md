@@ -1,6 +1,6 @@
 # Hi there 👋
 
-✅ I am a startup founder.
+✅ I am a Swiss startup founder, and I have recently moved to Luxembourg for my final year of bachelors.
 
 ✅ I am available for short missions, part time positions and season internships.
 
