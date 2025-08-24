@@ -1,8 +1,6 @@
 # Hi there 👋
 
-🏛️ I am currently doing a research internship in Financial NLP (FinTech) at Columbia University in New York City.
-
-🗓️ I am seeking for an internship between January and September.
+🗓️ I am currently unemployed.
 
 💻 My main intests lie in NLP, digital humanities and deep learning.
 
